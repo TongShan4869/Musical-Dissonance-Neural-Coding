@@ -43,6 +43,9 @@ We then correlate the metrics with the behavioral data.
 
 (Pearson's r=0.78)
 
+![consonance_Bowling_chords](https://github.com/TongShan4869/Musical-Dissonance-Neural-Coding/assets/51421789/e01890a4-6eae-46f4-8520-5c3234991733)
+
+(Pearson's r=0.94 for BE and r=0.85 for BS cell)
 
 ## Reference
 
