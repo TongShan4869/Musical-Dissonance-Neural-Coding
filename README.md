@@ -41,6 +41,7 @@ We then correlate the metrics with the behavioral data.
 
 ![Consonance_correlation](https://github.com/TongShan4869/Musical-Dissonance-Neural-Coding/assets/51421789/9eef3770-c02c-462c-90e1-bb07d15127c0)
 
+(Pearson's r=0.78)
 
 
 ## Reference
