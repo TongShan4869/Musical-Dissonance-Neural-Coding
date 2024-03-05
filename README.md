@@ -47,6 +47,8 @@ We then correlate the metrics with the behavioral data.
 
 (Pearson's r=0.94 for BE and r=0.85 for BS cell)
 
+This project is still in progress. 
+
 ## Reference
 
 Tufts, J. B. , Molis, M. R. , and Leek, M. R. (2005). “Perception of dissonance by people with normal hearing and sensorineural hearing loss,” J. Acoust. Soc. Am. 118, 955–967. https://doi.org/10.1121/1.1942347
